@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">cal</string>
+    <string name="welcome_to_tic_tac_toe_game">Welcome To Tic Tac Toe</string>
+    <string name="reset">RESET</string>
+    <string name="statBtn">STATS</string>
+    <string name="recyclerViewBtn">Recycler View Stat\n</string>
+</resources>

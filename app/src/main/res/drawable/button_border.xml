@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetTop="-15dp"
+    android:insetLeft="-15dp"
+    android:insetBottom="-15dp">
+
+<!--shape is used to change the button shape it could be rectangle or Oval or any other     -->
+    <shape android:shape="rectangle">
+
+<!--       Stroke is used to draw the border or the outline of  a shape  -->
+        <stroke
+            android:width="10dp"
+            android:color="@color/black" />
+
+<!--        solid is used to fill the color inside the shape -->
+<!--        <solid-->
+<!--            android:color="@color/white" />-->
+
+    </shape>
+</inset>

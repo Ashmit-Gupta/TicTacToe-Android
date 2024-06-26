@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            app:cardUseCompatPadding="true"
+            app:cardCornerRadius="10dp">
+                <LinearLayout
+                    android:layout_marginTop="5dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Match : 1"
+                            android:id="@+id/txtVwMatch"
+                            android:textSize="20sp"
+                            android:layout_marginBottom="5dp">
+                        </TextView>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="X's Win : "
+                            android:id="@+id/txtVwXwin"
+                            android:textSize="20sp"
+                            android:layout_marginBottom="5dp">
+                        </TextView>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="O's Win"
+                            android:id="@+id/txtVwOwin"
+                            android:textSize="20sp"
+                            android:layout_marginBottom="5dp">
+                        </TextView>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Draw : "
+                            android:textSize="20sp"
+                            android:id="@+id/txtVwDraw">
+                        </TextView>
+
+
+
+                </LinearLayout>
+
+
+
+
+        </androidx.cardview.widget.CardView>
+
+</LinearLayout>
