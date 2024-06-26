@@ -10,7 +10,8 @@ This project is a simple Tic Tac Toe game for Android devices, designed for two 
 - **Win & Draw Tracking**: Keep track of your victories and see who reigns supreme!
 - **Detailed Statistics**: Analyze your gameplay with a comprehensive RecyclerView-powered stats view (including wins, draws, and potentially more!).
 
-## DEMO
+
+## Screenshot
 
 ![Screenshot_2024-06-27-00-38-14-19_503e6e8b0a8feda1112019cea259201a](https://github.com/Ashmit-Gupta/TicTacToe-Android/assets/124504648/04d40374-c2ce-4f8e-9cab-21e7c689625a)
 
@@ -18,6 +19,10 @@ This project is a simple Tic Tac Toe game for Android devices, designed for two 
 ![Screenshot_2024-06-27-00-38-26-64_503e6e8b0a8feda1112019cea259201a](https://github.com/Ashmit-Gupta/TicTacToe-Android/assets/124504648/819efaca-9f32-4f0e-aa4a-d55645e56c11)
 ![Screenshot_2024-06-27-00-38-37-07_503e6e8b0a8feda1112019cea259201a](https://github.com/Ashmit-Gupta/TicTacToe-Android/assets/124504648/9cb9b058-a9a1-4242-9f96-df464ee2c719)
 
+
+
+
+## DEMO
 
 https://github.com/Ashmit-Gupta/TicTacToe-Android/assets/124504648/f124a92b-f248-43ae-a30e-28e6b32dddea
 
