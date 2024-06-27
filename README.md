@@ -13,9 +13,7 @@ This project is a simple Tic Tac Toe game for Android devices, designed for two 
 
 ## Screenshot
 
-![1(1)](https://github.com/Ashmit-Gupta/TicTacToe-Android/assets/124504648/84118dd9-da3d-44d1-8a64-57a7792862f7) &nbsp;&nbsp;&nbsp;&nbsp;![2](https://github.com/Ashmit-Gupta/TicTacToe-Android/assets/124504648/82b50576-fe81-404d-9bfd-e963dacb2af3) &nbsp;&nbsp;&nbsp;&nbsp;![3](https://github.com/Ashmit-Gupta/TicTacToe-Android/assets/124504648/38128708-d82c-4504-ac0b-4b43eef45697)
-
-![4](https://github.com/Ashmit-Gupta/TicTacToe-Android/assets/124504648/f46226b5-89cb-4559-b801-3836088d7bf1)
+![1(1)](https://github.com/Ashmit-Gupta/TicTacToe-Android/assets/124504648/84118dd9-da3d-44d1-8a64-57a7792862f7) &nbsp;&nbsp;&nbsp;&nbsp;![2](https://github.com/Ashmit-Gupta/TicTacToe-Android/assets/124504648/82b50576-fe81-404d-9bfd-e963dacb2af3) &nbsp;&nbsp;&nbsp;&nbsp;![3](https://github.com/Ashmit-Gupta/TicTacToe-Android/assets/124504648/38128708-d82c-4504-ac0b-4b43eef45697) ![4](https://github.com/Ashmit-Gupta/TicTacToe-Android/assets/124504648/f46226b5-89cb-4559-b801-3836088d7bf1)
 
 
 
